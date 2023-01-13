@@ -1,5 +1,6 @@
 This si the first verision to practice.
 Let's use The Coding Train video example; A Poem About Rainbows.
+This si a Unicron branch...
 
 ------------
 Pink
@@ -12,4 +13,7 @@ Indigo
 Violet
 
 A Rainbow, Or is it?
+
+The Unicron loves to eat all the colors of the rainbow.
+Scrumptious. 
 ------------
