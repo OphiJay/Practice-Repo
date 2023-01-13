@@ -1,6 +1,6 @@
 This si the first verision to practice.
 Let's use The Coding Train video example; A Poem About Rainbows.
-This si a Unicron branch...
+Now there's gnomes.
 
 ------------
 Pink
@@ -18,4 +18,6 @@ A Rainbow, Or is it?
 
 The Unicron loves to eat all the colors of the rainbow.
 Scrumptious. 
+
+The gnomes were terrifed. 
 ------------
