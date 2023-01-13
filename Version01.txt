@@ -2,6 +2,7 @@ This si the first verision to practice.
 Let's use The Coding Train video example; A Poem About Rainbows.
 
 ------------
+Pink
 Red
 Orange
 Yellow
