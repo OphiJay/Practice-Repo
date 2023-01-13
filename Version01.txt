@@ -1,0 +1,14 @@
+This si the first verision to practice.
+Let's use The Coding Train video example; A Poem About Rainbows.
+
+------------
+Red
+Orange
+Yellow
+Green
+Blue
+Indigo
+Violet
+
+A Rainbow
+------------
